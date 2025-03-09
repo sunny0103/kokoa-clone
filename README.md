@@ -1,3 +1,3 @@
 # KoKoa Talk Clone
 
-CSS practice!!
+HTML & CSS practice ~
